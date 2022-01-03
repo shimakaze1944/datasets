@@ -1,4 +1,4 @@
-Car_Name;Year;Selling_Price;Present_Price;Kms_Driven;Fuel_Type;Seller_Type;Transmission;Owner
+Car Name;Year;Selling Price;Present Price;Kms Driven;Fuel Type;Seller Type;Transmission;Owner
 ritz;2014;03.35;05.59;27000;Petrol;Dealer;Manual;0
 sx4;2013;0,21875;09.54;43000;Diesel;Dealer;Manual;0
 ciaz;2017;07.25;0,434027778;6900;Petrol;Dealer;Manual;0
